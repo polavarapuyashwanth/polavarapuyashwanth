@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaswanth</h1>
+<h1 align="center">Hey there 👋, I'm Yaswanth</h1>
 <h3 align="center">Software Engineer who loves to code.</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
